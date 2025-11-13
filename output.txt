@@ -1,14 +1,27 @@
-Algorithm Analyzer Results
+Algorithm: Linear Search
+Input Size | Time (ms)
+----------------------
+100        | 0.12
+500        | 0.78
+1000       | 3.21
 
-Linear Search:
-Time: 0.002s
+Algorithm: Binary Search
+Input Size | Time (ms)
+----------------------
+100        | 0.003
+500        | 0.001
+1000       | 0.001
 
-Binary Search:
-Time: 0.001s
+Algorithm: Bubble Sort
+Input Size | Time (ms)
+----------------------
+100        | 0.15
+500        | 0.80
+1000       | 3.20
 
-Bubble Sort:
-Time: 0.025s
-
-Quick Sort:
-Time: 0.004s
-
+Algorithm: Quick Sort
+Input Size | Time (ms)
+----------------------
+100        | 0.02
+500        | 0.10
+1000       | 0.25
